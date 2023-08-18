@@ -1,0 +1,25 @@
+{
+  "name": "desarrolloweb",
+  "version": "1.0.0",
+  "description": "Proyecto para tareas del curso de desarrollo web 8vo semestre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cron-well/desarrolloWeb.git"
+  },
+  "author": "Angel Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cron-well/desarrolloWeb/issue"
+  },
+  "homepage": "https://github.com/cron-well/desarrolloWeb#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
