@@ -1,0 +1,14 @@
+{
+  "name": "apitse",
+  "version": "1.0.0",
+  "description": "Proyecto para registro de ciudadanos en el TSE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cronwell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
